@@ -4,7 +4,11 @@ This Weather App is made in Java using Java swing component and Openweathermap A
 
 # Demo
 
-![screenshot of this game](./weather_app.gif)
+
+
+https://github.com/user-attachments/assets/d2d9b1f6-8ea4-4765-8c19-d1ebb2df4ae7
+
+
 
 # Installation
 
